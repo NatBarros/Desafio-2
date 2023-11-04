@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+
+header {
+  background-color: black;
+  height: 90px;
+  text-align: center;
+  padding-top: 35px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  padding: 80px;
+}
+
+a:hover {
+  color: cornflowerblue;
+}
+
+section {
+  text-align: center;
+}
+
+.logotopo {
+  width: 1350px;
+}
+
+div {
+  margin: 30px;
+  display: inline-block;
+}
+
+.setas {
+  margin-bottom: 180px;
+}
+
+.capadosfilmes {
+  height: 400px;
+  width: 270px;
+}
+
+footer {
+background-color: black;
+color:white;
+}
+
+p {
+  display: inline-block;
+}
+
+.logosrodape {
+ display: inline-block;
+ padding: 10px;
+}
